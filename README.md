@@ -1,10 +1,10 @@
 
 ## Env variables
-PORT = 8080
-COUNTRIES_URL=https://date.nager.at/api/v3/AvailableCountries
-BORDERS_URL=https://date.nager.at/api/v3/CountryInfo/
-POPULATION_URL=https://countriesnow.space/api/v0.1/countries/population
-FLAG_URL=https://countriesnow.space/api/v0.1/countries/flag/images
+ PORT = 8080
+ COUNTRIES_URL=https://date.nager.at/api/v3/AvailableCountries
+ BORDERS_URL=https://date.nager.at/api/v3/CountryInfo/
+ POPULATION_URL=https://countriesnow.space/api/v0.1/countries/population
+ FLAG_URL=https://countriesnow.space/api/v0.1/countries/flag/images
 
 ## Project setup
 
